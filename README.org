@@ -4,7 +4,7 @@ Fetches and operates on Quicklisp download statistics.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/phoe/quicklisp-stats.git   |
-| commit  | {"messa  |
+| commit  | 953b45c  |
 | systems | quicklisp-stats |
 |---------+-------------------------------------------|
 

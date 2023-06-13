@@ -1,0 +1,10 @@
+* quicklisp-stats
+
+Fetches and operates on Quicklisp download statistics.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/phoe/quicklisp-stats.git   |
+| commit  | {"messa  |
+| systems | quicklisp-stats |
+|---------+-------------------------------------------|
+
